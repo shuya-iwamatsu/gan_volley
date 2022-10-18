@@ -106,7 +106,7 @@ header {
   line-height: 65px;
   padding: 0 40px;
   color: white;
-  font-height: 15px;
+  font-size: 30px;
   display: block;
   float: left;
   transition: all 0.5s;
@@ -119,14 +119,14 @@ header {
 
 .header-right {
   float: right;
-  margin-right: 120px;
+  margin-right: 20px;
 }
 
 .header-right a {
   line-height: 65px;
-  padding: 0 240px;
+  padding: 0 40px;
   color: white;
-  font-height: 24px;
+  font-size: 24px;
   display: block;
   float: center;
   transition: all 0.5s;
