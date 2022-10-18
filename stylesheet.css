@@ -179,6 +179,11 @@ header {
   font-weight: normal;
 }
 
+.heading h4 {
+  font-weight: normal;
+  height: 15px;
+}
+
 .message-wrapper {
   border-bottom: 1px solid #eee;
   padding-bottom: 80px;
