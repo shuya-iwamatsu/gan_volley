@@ -19,7 +19,7 @@ a {
 
 .top-wrapper {
   padding: 180px 0 100px 0;
-  background-image: url(ZHO.JPG);
+  background-image: url(Trakai.JPG);
   background-size: cover;
   color: white;
   text-align: center;
@@ -43,6 +43,7 @@ a {
 
 .btn-wrapper p {
   margin-bottom: 0px;
+  margin-right: 12px;
 }
 
 .signup {
@@ -75,7 +76,7 @@ a {
 }
 
 .fa {
-  margin-right: 5px;
+  margin-right: 0px;
 }
 
 header {
