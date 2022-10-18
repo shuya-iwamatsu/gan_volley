@@ -119,6 +119,7 @@ header {
 
 .heading h2 {
   font-weight: normal;
+  height: 30px;
 }
 
 .lesson {
