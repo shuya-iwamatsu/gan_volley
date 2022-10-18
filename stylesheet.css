@@ -18,7 +18,7 @@ a {
 }
 
 .top-wrapper {
-  padding: 180px 0 100px 0;
+  padding: 240px 0 100px 0;
   background-image: url(Trakai.JPG);
   background-size: cover;
   color: white;
@@ -38,7 +38,7 @@ a {
 }
 
 .btn-wrapper {
-  text-align: left;
+  text-align: right;
 }
 
 .btn-wrapper p {
@@ -72,7 +72,7 @@ a {
   display: inline-block;
   opacity: 0.8;
   border-radius: 4px;
-  text-align: center;
+  text-align: right;
 }
 
 .btn:hover {
@@ -123,10 +123,10 @@ header {
 
 .header-right a {
   line-height: 65px;
-  padding: 0 25px;
+  padding: 0 120px;
   color: white;
   display: block;
-  float: right;
+  float: center;
   transition: all 0.5s;
 }
 
