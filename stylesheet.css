@@ -99,13 +99,14 @@ header {
 
 .header-left {
   float: left;
-  margin-left: -25px;
+  margin-left: -20px;
 }
 
 .header-left a {
   line-height: 65px;
   padding: 0 40px;
   color: white;
+  font-height: 15px;
   display: block;
   float: left;
   transition: all 0.5s;
@@ -118,13 +119,14 @@ header {
 
 .header-right {
   float: right;
-  margin-right: 240px;
+  margin-right: 120px;
 }
 
 .header-right a {
   line-height: 65px;
-  padding: 0 120px;
+  padding: 0 240px;
   color: white;
+  font-height: 24px;
   display: block;
   float: center;
   transition: all 0.5s;
