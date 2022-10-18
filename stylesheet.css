@@ -117,7 +117,7 @@ header {
 }
 
 .header-right {
-  float: right;
+  float: center;
   margin-right: 15px;
 }
 
