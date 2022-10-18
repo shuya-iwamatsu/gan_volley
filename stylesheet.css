@@ -117,7 +117,7 @@ header {
 }
 
 .header-right {
-  float: center;
+  float: right;
   margin-right: 15px;
 }
 
@@ -126,7 +126,7 @@ header {
   padding: 0 25px;
   color: white;
   display: block;
-  float: center;
+  float: right;
   transition: all 0.5s;
 }
 
