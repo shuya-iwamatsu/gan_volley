@@ -49,20 +49,6 @@ a {
   background-color: #239b76;
 }
 
-.instagram {
-  background-color: #8a3ab9;
-  margin-right: 10px;
-}
-
-.twitter {
-  background-color: #55acee;
-}
-
-.linkedin {
-  background-color: #0e76a8;
-  margin-right: 10px;
-}
-
 .btn {
   padding: 8px 24px;
   color: white;
@@ -161,6 +147,7 @@ header {
 
 .heading h3 {
   font-weight: normal;
+  height: 15px;
 }
 
 .message-wrapper {
