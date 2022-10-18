@@ -13,7 +13,7 @@ a {
 
 .container {
   width: 100%;
-  padding: 0 15px;
+  padding: 0 30px;
   margin: 0 auto;
 }
 
@@ -38,7 +38,7 @@ a {
 }
 
 .btn-wrapper {
-  text-align: right;
+  text-align: left;
 }
 
 .btn-wrapper p {
@@ -118,7 +118,7 @@ header {
 
 .header-right {
   float: right;
-  margin-right: 15px;
+  margin-right: 120px;
 }
 
 .header-right a {
