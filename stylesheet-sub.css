@@ -82,6 +82,20 @@ header {
 
 .header-left {
   float: left;
+  margin-left: 15px;
+}
+
+.header-left a {
+  line-height: 80px;
+  padding: 0 25px;
+  color: white;
+  display: block;
+  float: left;
+  transition: all 0.5s;
+}
+
+.header-left a:hover {
+  background-color: #efe4bf;
 }
 
 .header-right {
