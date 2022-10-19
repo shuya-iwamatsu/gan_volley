@@ -181,6 +181,10 @@ header {
   color: #b3aeb5;
 }
 
+.u {
+  text-decoration: underline;
+}
+
 .heading h3 {
   font-weight: normal;
 }
