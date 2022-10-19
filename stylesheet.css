@@ -19,10 +19,10 @@ a {
 
 .top-wrapper {
   padding: 180px 0 100px 0;
-  background-image: url(Malaga.JPG);
+  background-image: url(Malaga.jpg);
   background-position: center;
   width: 100%;
-  height: 1800px;
+  height: 600px;
   color: white;
   text-align: center;
 }
